@@ -1,0 +1,5 @@
+Flask==2.3.0
+PyJWT==2.7.0
+requests==2.31.0
+Flask-Swagger==0.2.13
+flasgger==0.9.5
